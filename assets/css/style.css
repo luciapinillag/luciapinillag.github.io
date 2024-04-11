@@ -1,8 +1,20 @@
-body img {
-    width: 100px;
-}
-
-body {
-    background-color: rgb(43, 2, 2);
-    color: #d6cdcd;
-}
+        body img {
+            width: 100px;
+        }
+        
+        body {
+            background-color: rgb(43, 2, 2);
+            color: #d6cdcd;
+        }
+        
+        header img {
+            width: 200px;
+        }
+        
+        .btn-custom {
+            background-color: #ff6600;
+            /* Cambia #ff6600 al color que desees */
+            color: #ffffff;
+            /* Color del texto */
+            justify-content: end;
+        }
