@@ -11,10 +11,11 @@
             width: 200px;
         }
         
-        .btn-custom {
-            background-color: #ff6600;
-            /* Cambia #ff6600 al color que desees */
-            color: #ffffff;
-            /* Color del texto */
-            justify-content: end;
+        h2 {
+            text-align: center;
+        }
+        
+        .educacion {
+            margin-top: 200px;
+            float: left;
         }
